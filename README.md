@@ -1,7 +1,7 @@
 # Twilio Account Security Demo Site - 2FA and Phone Verification in Python
 
 **This is a starter project for the SIGNAL 2019 Account Security Workshop.**
-For the finished version, check out the [finished branch](https://github.com/robinske/account-security-python-demo/compare/finished).
+For the finished version, check out the [finished branch](https://github.com/AuthySE/signal-2019-python-authy-verify/compare/finished?expand=1).
 
 A Python/Flask implementation demonstrating Twilio's Account Security APIs:
 
